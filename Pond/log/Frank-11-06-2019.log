@@ -1,0 +1,31 @@
+[
+    {
+        "index": 29,
+        "local_time": "11-06-2019:00-44-38",
+        "remote_time": "11-06-2019:00-44-38",
+        "source": "127.0.0.1",
+        "sensor": {
+            "sen": 1,
+            "v_battery": 12.11,
+            "c_battery": 405.12,
+            "v_solar": 0.89,
+            "c_solar": -0.18,
+            "v_trunk": 0.88,
+            "c_trunk": -0.3,
+            "water_level": 47.33
+        },
+        "alert": {
+            "alt": 1,
+            "v_battery": 0,
+            "c_battery": 0,
+            "v_solar": 1,
+            "c_solar": 0,
+            "v_trunk": 1,
+            "c_trunk": 0,
+            "water_level": 0
+        },
+        "hash_last": "edbcace5fb6cfb0eda55f95c4c0c4e2dcb6dcfd7ee5bb3f125ede8d7e9c8a67e",
+        "hash_current": "1b89313ee386059fbebbe2091c702e7e623f2543e66a2a52025b3405fded7e7f",
+        "unsent": 0
+    }
+]

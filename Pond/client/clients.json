@@ -1,0 +1,19 @@
+{
+    "clients": [
+        {
+            "idenifier": "Frank",
+			"passphrase":"sexychicken",
+			"public_key_file": "Frank_public_key.pem",
+			"type": 0,
+			"last_com": "0"
+        },
+        {
+            "idenifier": "Office",
+			"passphrase":"sexistchicken",
+			"public_key_file": "Office_public_key.pem",
+			"type": 1,
+			"last_com": "0"
+        }
+    ]
+}
+
