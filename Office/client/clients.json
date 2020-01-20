@@ -1,0 +1,17 @@
+{
+    "clients": [
+        {
+            "idenifier": "Frank",
+			"passphrase":"sexychicken",
+			"public_key_file": "Frank_public_key.pem",
+			"last_com": "0"
+        },
+        {
+            "idenifier": "Frank1234",
+			"passphrase":"sxw24",
+			"public_key_file": "Frank1248_public_key.pem",
+			"last_com": "0"
+        }
+    ]
+}
+

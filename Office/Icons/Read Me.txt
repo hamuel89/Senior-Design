@@ -1,0 +1,27 @@
+
+***The text file will be life updated (it will continuously updated)***
+will change the icon depends on the life data it recive form a text file for example:
+
+signal_strength.txt
+
+5    // will change the icon to a signal 5.png
+5    // will change the icon to a signal 5.png
+5    // will change the icon to a signal 5.png
+3    // will change the icon to a signal 3.png
+0    // will change the icon to a signal 1.png
+2    // will change the icon to a signal 2.png
+4    // will change the icon to a signal 4.png
+
+***The text file will be life updated (it will continuously updated)***
+
+battery_level.txt
+
+5    // will change the icon to a battery 5.png
+5    // will change the icon to a battery 5.png
+5    // will change the icon to a battery 5.png
+3    // will change the icon to a battery 3.png
+0    // will change the icon to a battery 1.png
+2    // will change the icon to a battery 2.png
+4    // will change the icon to a battery 4.png
+
+***The text file will be life updated (it will continuously updated)***
