@@ -10,6 +10,8 @@ To reduce the risk associated with Texas quality of environmental Control stormw
 Completed:
 Project was completed as required by Statement of Work.
 
+
+
 Hardware requirements:
 
 Raspberry Pi x 2
@@ -26,6 +28,9 @@ INA219 Voltage && Current Sensor
 
 JSN-SR04T Integrated Ultrasonic Distance Sensor
 
+
+
+
 Documents were summitted in the following order:
 
 State of Work
@@ -40,6 +45,7 @@ D2 Poster
 
 Final Report
 
+Software: 
 
 The Software for this project was written in both python and C. There are three portions of code written for three
 different pieces of hardware had to communicate using different channels like I2C, Uart(serial), TCP. Each folder
